@@ -13,6 +13,3 @@ Python 3.x e Bibliotecas:
 - urllib.error: Essa biblioteca contém exceções específicas para erros relacionados a URLs e solicitações HTTP. Ela é usada para lidar com erros que podem ocorrer durante as operações de busca e download de dados.
 - BeautifulSoup: Essa biblioteca é usada para analisar e extrair informações de documentos HTML e XML. Ela fornece uma maneira fácil de navegar e buscar elementos em uma página da web e é amplamente utilizada para web scraping.
 - pandas: Essa biblioteca fornece estruturas de dados de alto desempenho e ferramentas de análise de dados em Python. Ela é usada para manipular, analisar e visualizar dados de forma eficiente, especialmente em formato tabular. 
-
-## Como usar
-
