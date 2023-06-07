@@ -1,5 +1,4 @@
 # WebScraping_Site_Fudamentus
-Projeto de web Scraping para extrair dados do site Fundamentus
 Este é um projeto de web scraping para extrair dados do site Fundamentus. O objetivo é obter informações sobre ações listadas na bolsa de valores brasileira e utilziar a base de dados para analises fundamentalista e /ou utilizar em estudos de predições, Análise de Correspondência, entre outros.
 
 ## Como funciona
